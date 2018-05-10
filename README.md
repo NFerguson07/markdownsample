@@ -7,7 +7,6 @@
 *Bullet 2
 
 Paragragh text here
-
 \\\
 puts "this is code"
 if this then that
